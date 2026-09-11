@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maxalto100.github.io/snippets-35vpzd/sitemap.xml
